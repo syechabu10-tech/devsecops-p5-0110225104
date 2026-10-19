@@ -1,0 +1,13 @@
+{
+  "name": "devsecops-demo-app",
+  "version": "1.0.0",
+  "description": "Aplikasi sederhana untuk modul praktikum DevSecOps",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Running unit tests... No tests configured yet.\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
