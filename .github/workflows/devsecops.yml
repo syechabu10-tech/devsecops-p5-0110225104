@@ -76,3 +76,4 @@ jobs:
             -Dsonar.organization=syechabu10-tech
             -Dsonar.projectKey=syechabu10-tech_devsecops-p5-0110225104
             -Dsonar.sources=.
+            
